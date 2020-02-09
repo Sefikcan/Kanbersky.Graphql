@@ -1,0 +1,11 @@
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\bin\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.deps.json
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\bin\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.dll
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\bin\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.pdb
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\bin\Debug\netcoreapp3.1\Kanbersky.Graphql.Core.dll
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\bin\Debug\netcoreapp3.1\Kanbersky.Graphql.Core.pdb
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.csprojAssemblyReference.cache
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.AssemblyInfoInputs.cache
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.AssemblyInfo.cs
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.csproj.CopyComplete
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.dll
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Entities\obj\Debug\netcoreapp3.1\Kanbersky.Graphql.Entities.pdb

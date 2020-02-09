@@ -1,0 +1,8 @@
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\bin\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.deps.json
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\bin\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.dll
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\bin\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.pdb
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\obj\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.AssemblyInfoInputs.cache
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\obj\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.AssemblyInfo.cs
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\obj\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.dll
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\obj\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.pdb
+D:\WorkSpaces\Graphql\Kanbersky.Graphql\Kanbersky.Graphql.Core\obj\Debug\netcoreapp2.2\Kanbersky.Graphql.Core.csprojAssemblyReference.cache
